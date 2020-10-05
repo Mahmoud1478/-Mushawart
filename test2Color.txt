@@ -1,0 +1,8 @@
+primary1:#2155cf
+primary2:#2ecc41
+primary3:#0074d9
+primary4:#ff7e00
+primary5:#bb54e1
+primary6:#14c599
+primary7:#ab8b40
+primary8:#ff4236
